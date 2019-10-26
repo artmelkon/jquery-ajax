@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "/Applications/XAMPP/xamppfiles/htdocs/Web/jquery-sanbox/base"
+		}
+	],
+	"settings": {
+		"editor.autoIndent": true,
+		"files.autoSave": "afterDelay",
+		"files.autoSaveDelay": 1000,
+		"editor.tabSize": 2,
+		"liveServer.settings.multiRootWorkspaceName": "jquery-ajax"
+	}
+}
